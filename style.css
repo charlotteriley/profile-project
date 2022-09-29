@@ -72,4 +72,5 @@ footer p{
 .contact-links a {
     display: flex;
     align-items: center;
+    text-decoration: line-through;
 }
